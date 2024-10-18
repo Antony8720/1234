@@ -4,13 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795b560a-0789-41c4-b29b-2435a0c8320a" name="Changes" comment="" />
+    <list default="true" id="795b560a-0789-41c4-b29b-2435a0c8320a" name="Changes" comment="1231">
+      <change afterPath="$PROJECT_DIR$/../Ik/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/.mvn/jvm.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/.mvn/maven.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ik/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2n0fxGZxOi9STZn87VTxvcIvNd4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +40,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "A:/Dev/java_test",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -50,7 +73,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728115158304</updated>
+      <workItem from="1728115159459" duration="9924000" />
+      <workItem from="1728228083150" duration="64000" />
+      <workItem from="1728237527187" duration="735000" />
+      <workItem from="1728288783377" duration="107000" />
+      <workItem from="1729177945910" duration="6000" />
     </task>
+    <task id="LOCAL-00001" summary="1231">
+      <created>1728115423974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728115423974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1231" />
+    <option name="LAST_COMMIT_MESSAGE" value="1231" />
   </component>
 </project>
